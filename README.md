@@ -4,6 +4,6 @@
 - 😄 Pronouns: he/she
 
 <!---
-ifst0ru/ifst0ru is a ✨ special ✨ repository because its `ABOUTME.md` (this file) appears on your GitHub profile.
+ifst0ru/ifst0ru is a ✨ special ✨ repository because its `ABOOUTME.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
